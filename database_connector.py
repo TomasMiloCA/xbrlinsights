@@ -4,7 +4,7 @@ import pandas as pd
 # Initialize Supabase client
 # Replace the URL and anon_key with your actual Supabase URL and anonymous key
 url = "https://gpbtlijqrucwttfniqjj.supabase.co"
-anon_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdwYnRsaWpxcnVjd3R0Zm5pcWpqIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTY1NDAxMTQsImV4cCI6MjAxMjExNjExNH0.ALkx9lRuXB56imebGiaD9X1fGIXv4MC0WA5iH6w6Yxc"
+anon_key = "enter anon key here"
 supabase = create_client(url, anon_key)
 
 
